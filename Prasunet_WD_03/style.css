@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Dancing+Script:wght@400..700&family=Great+Vibes&family=Josefin+Slab:ital,wght@0,100..700;1,100..700&family=Kalam:wght@300;400;700&family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&family=Marck+Script&family=Merienda:wght@300..900&family=Montez&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&family=Sacramento&family=Sedan+SC&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #abafb1;
+}
+
+.game-nav {
+    display: flex;
+    justify-content: space-around;
+    padding: 2rem;
+    background-color: #ce68c5;
+    font-family: "Philosopher", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 24px;
+}
+
+#new-game-btn, #restart-btn {
+    padding: 10px;
+    background-color: #18cf18;
+    border: solid #bd100a 1.5px;
+    border-radius: 30px;
+    font-size: 13px;
+}
+
+.message-container {
+    position: absolute;
+    background-color: #f11f29;
+    width: 99.74%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    border: solid #50b8e7 2px;
+    border-style: dashed;
+    margin-top: 178px;
+    font-size: 40px;
+    font-family: "Philosopher", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.hide {
+    display: none;
+}
+
+.game-message {
+    margin-top: 30px;
+}
+
+main {
+    display: flex;
+    justify-content: space-around;
+}
+
+.game-player {
+    display: flex;
+    justify-content: center;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-size: 100px;
+    margin-top: 170px;
+}
+
+#box {
+    width: 110vh;
+    height: 83.5vh;
+    background-color: none;
+    justify-content: center;
+}
+
+.game-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.game-board {
+    height: 55vh;
+}
+
+.game-line {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: solid black 2px;
+}
+
+.game-line1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+#box1, #box4, #box7, #box2, #box5, #box8 {
+    border-right: solid black 2px;
+}
+
+.game-box {
+    height: 18vmin;
+    width: 18vmin;
+    border: none;
+    padding: 0.5px;
+    background: none;
+    font-size: 60px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+}
+
+   
