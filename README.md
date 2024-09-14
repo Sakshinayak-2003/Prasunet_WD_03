@@ -19,23 +19,26 @@ Responsive design suitable for various screen sizes.
 
 
 
-![Screenshot (149)](https://github.com/user-attachments/assets/67ee1805-3e75-464a-914e-9f10d96d7fcf)
+![Screenshot (148)](https://github.com/user-attachments/assets/5d1556bd-3bc7-41bd-a0c4-2829c2a0d9ad)
 
 
 
-![Screenshot (150)](https://github.com/user-attachments/assets/1abcae00-fe33-4488-b750-10990c356ace)
+
+![Screenshot (150)](https://github.com/user-attachments/assets/42611aca-9a11-4b35-8036-ac4932cb558e)
+
+
+0 IS THE WINNER HERE
+
+
+![Screenshot (153)](https://github.com/user-attachments/assets/71bb73c5-7c62-463c-b7ac-d267a2d38441)
+X IS WINNER HERE
 
 
 
-0 IS THE WINNER
 
 
-
-![Screenshot (152)](https://github.com/user-attachments/assets/817b5264-dae5-490c-ac7c-8d8314cc63c1)
-
-
+![Screenshot (152)](https://github.com/user-attachments/assets/84bb9b04-3720-4ac7-99dd-b93504f27d3b)
 GAME IS DRAW
-
 
 
 
