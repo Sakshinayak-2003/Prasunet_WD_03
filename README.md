@@ -19,11 +19,13 @@ Responsive design suitable for various screen sizes.
 
 
 
-OutPut![Screenshot (150)](https://github.com/user-attachments/assets/223575d2-76f8-44aa-b277-52060d0a5a42)
+![Screenshot (149)](https://github.com/user-attachments/assets/67ee1805-3e75-464a-914e-9f10d96d7fcf)
+
 
 
 
 ![Screenshot (149)](https://github.com/user-attachments/assets/67ee1805-3e75-464a-914e-9f10d96d7fcf)
+
 
 0 IS THE WINNER
 
