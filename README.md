@@ -23,8 +23,8 @@ Responsive design suitable for various screen sizes.
 
 
 
+![Screenshot (150)](https://github.com/user-attachments/assets/1abcae00-fe33-4488-b750-10990c356ace)
 
-![Screenshot (149)](https://github.com/user-attachments/assets/67ee1805-3e75-464a-914e-9f10d96d7fcf)
 
 
 0 IS THE WINNER
