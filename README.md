@@ -31,6 +31,10 @@ Responsive design suitable for various screen sizes.
 
 
 
+![Screenshot (152)](https://github.com/user-attachments/assets/817b5264-dae5-490c-ac7c-8d8314cc63c1)
+
+
+GAME IS DRAW
 
 
 
